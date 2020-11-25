@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Bemyself!99",
+    "database": "nodejs_express_basic",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
